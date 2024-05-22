@@ -17,9 +17,9 @@ models: #关联模型
 ## 启动文件(若SDK为Gradio/Streamlit，默认为app.py, 若为Static HTML, 默认为index.html)
 # deployspec:
 #   entry_file: app.py
-license: Apache License 2.0
+license: MIT License
 ---
 #### Clone with HTTP
 ```bash
- git clone https://www.modelscope.cn/studios/ck123111/Azusa-Bert-VITS2-2.4.git
+ git clone https://www.modelscope.cn/studios/xzjosh/Azusa-Bert-VITS2-2.3.git
 ```
