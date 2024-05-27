@@ -30,4 +30,4 @@ g2p_en
 sentencepiece
 pykakasi
 langid
-nltk
+NLTK
